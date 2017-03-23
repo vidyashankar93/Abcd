@@ -1,0 +1,14 @@
+<atlassian-ide-plugin>
+  <project-configuration id="1">
+    <servers id="2">
+      <jira id="3">
+        <server-id id="4">68bbd425-8b39-4241-8a93-9cf225958b23</server-id>
+        <name>Server1</name>
+        <url>http://192.168.70.66:8091</url>
+        <shared>false</shared>
+        <useSessionCookies>false</useSessionCookies>
+      </jira>
+    </servers>
+    <default-jira-server reference="4" />
+  </project-configuration>
+</atlassian-ide-plugin>

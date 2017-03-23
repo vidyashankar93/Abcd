@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/girivi/vlogin/Appconfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/girivi/vlogin/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/girivi/vlogin/Register.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/girivi/vlogin/Reset.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Age/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Age/app/src/main/java/com/example/girivi/age/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Age/app/src/main/java/com/example/girivi/age/Validate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Age/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Age/app/src/main/res/layout/activity_validate.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Age/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Age/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/andro2/androproj/app/src/main/java/com/example/girivi/vlogin/Reset.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/androproj/app/src/main/java/com/example/girivi/vlogin/Register.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
